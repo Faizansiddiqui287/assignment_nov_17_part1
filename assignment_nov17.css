@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #E3516E;
+}
+
+.one{
+    width: 0px;
+    height: 0px;
+    border: 150px;
+    border-radius: 50%;
+    border-color: black;
+    border-style: solid;
+    border-bottom-color: #E3516E;
+    border-right-color: #FADE8B;
+    border-top-color: #51B5A9;
+    border-left-color: #F7F3D7;
+    margin-left: 40%;
+    margin-top: 15%;
+}
+
+
